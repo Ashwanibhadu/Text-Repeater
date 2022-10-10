@@ -30,7 +30,7 @@ Installing Tutorial or Working Demo :
 
 
 
-https://user-images.githubusercontent.com/37971771/119216203-f2e55d00-baef-11eb-993a-5332acf38a98.mp4
+
 
 <hr>  
 
